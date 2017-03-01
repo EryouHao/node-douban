@@ -1,0 +1,14 @@
+{
+  "name": "node-douban",
+  "version": "1.0.0",
+  "description": "node-douban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haoeryou",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
